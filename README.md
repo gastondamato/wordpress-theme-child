@@ -22,10 +22,11 @@ After that you can replace **screenshot.jpg** with the image you want wordpress 
 Then, respecting the structure of the theme you are extending, you can create a php file to add the functionality you need.
 
 I added 3 files just to show how to extend it:[^1]
+```
 /function.php
 /footer.php
 /includes/social_icons.php
-
+```
 [^1] Remember that the .php files have to be at the same location of the parent theme.
 
 Copy this folder inside wp-content/themes
