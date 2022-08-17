@@ -1,0 +1,29 @@
+@import url("../Divi/style.css");
+/*
+Theme Name: Coolabulla Standard DVchild
+Theme URI: https://www.elegantthemes.com
+Description: Coolabulla DIVI-Ext
+Author: Gaston D'Amato
+Author URI: http://www.coolabulla.com
+Template: Divi
+Version: 1.0.0
+*/
+
+/* Fullwidth Rows */
+.et_pb_row.et_pb_row_fullwidth, .et_pb_specialty_fullwidth > .et_pb_row { width: 89%; max-width: 89% }
+	
+/*Social Icons */
+.et-social-facebook a.icon:before { content: '\e093'; }
+.et-social-twitter a.icon:before { content: '\e094'; }
+.et-social-google-plus a.icon:before { content: '\e096'; }
+.et-social-pinterest a.icon:before { content: '\e095'; }
+.et-social-linkedin a.icon:before { content: '\e09d'; }
+.et-social-tumblr a.icon:before { content: '\e097'; }
+.et-social-instagram a.icon:before { content: '\e09a'; }
+.et-social-skype a.icon:before { content: '\e0a2'; }
+.et-social-flikr a.icon:before { content: '\e0a6'; }
+.et-social-myspace a.icon:before { content: '\e0a1'; }
+.et-social-dribbble a.icon:before { content: '\e09b'; }
+.et-social-youtube a.icon:before { content: '\e0a3'; }
+.et-social-vimeo a.icon:before { content: '\e09c'; }
+.et-social-rss a.icon:before { content: '\e09e'; }
